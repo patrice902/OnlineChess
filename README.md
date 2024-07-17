@@ -1,4 +1,4 @@
-# Online Chess Match with Zoom Meeting.
+# Online Chess Tournament with Zoom Meeting.
 
 ## Summary
 This app is an online chess web app that allows users to be matched, and have a chess tournament having zoom call.
