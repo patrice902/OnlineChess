@@ -3,7 +3,7 @@
 ## Summary
 This app is an online chess web app that allows users to be matched, and have a chess tournament having zoom call.
 
-##Screenshots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/0cdeb922-be24-4d75-ac52-09bb25cf08c9)
 
